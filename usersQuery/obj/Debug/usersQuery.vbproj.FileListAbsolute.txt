@@ -1,0 +1,14 @@
+C:\Users\snige\source\repos\usersQuery\usersQuery\obj\Debug\usersQuery.vbprojAssemblyReference.cache
+C:\Users\snige\source\repos\usersQuery\usersQuery\obj\Debug\usersQuery.Form1.resources
+C:\Users\snige\source\repos\usersQuery\usersQuery\obj\Debug\usersQuery.Resources.resources
+C:\Users\snige\source\repos\usersQuery\usersQuery\obj\Debug\usersQuery.vbproj.GenerateResource.cache
+C:\Users\snige\source\repos\usersQuery\usersQuery\obj\Debug\usersQuery.vbproj.CoreCompileInputs.cache
+C:\Users\snige\source\repos\usersQuery\usersQuery\bin\Debug\usersQuery.exe.config
+C:\Users\snige\source\repos\usersQuery\usersQuery\bin\Debug\usersQuery.exe
+C:\Users\snige\source\repos\usersQuery\usersQuery\bin\Debug\usersQuery.pdb
+C:\Users\snige\source\repos\usersQuery\usersQuery\bin\Debug\usersQuery.xml
+C:\Users\snige\source\repos\usersQuery\usersQuery\obj\Debug\usersQuery.exe
+C:\Users\snige\source\repos\usersQuery\usersQuery\obj\Debug\usersQuery.xml
+C:\Users\snige\source\repos\usersQuery\usersQuery\obj\Debug\usersQuery.pdb
+C:\Users\snige\source\repos\usersQuery\usersQuery\bin\Debug\data.accdb
+C:\Users\snige\source\repos\usersQuery\usersQuery\obj\Debug\usersQuery.usersinfo.resources
